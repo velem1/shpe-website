@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 
 const Alumni = () => (
   <Fragment>
-    <h1>Graduated Members and Bios</h1>
+    <h1>Graduated Members and Brief Bios</h1>
   </Fragment>
 );
 
